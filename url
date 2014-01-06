@@ -1,0 +1,22 @@
+As logged within README, we've met a few questions and just solved with the help of these urls.
+
+1. fatal: could not read Username for 'https://github.com': No such file or directory
+
+http://stackoverflow.com/questions/20871549/error-when-push-commits-with-github-fatal-could-not-read-username
+
+2. GitHub cannot log in; unable to retrieve your user info from the server.
+
+https://github.com/gitextensions/gitextensions/issues/2044
+
+http://blog.csdn.net/jefbai/article/details/17737497
+
+3. Blog
+
+http://www.parallellabs.com/2013/07/22/git-quick-learning-guide/  Git快速学习指南
+
+http://try.github.io/levels/1/challenges/1   					   Try Git
+
+http://gitimmersion.googol.im/										Git Immersion
+
+
+^_^, so thanks a lot for these urls and their authors.
