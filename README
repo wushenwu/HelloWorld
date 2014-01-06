@@ -16,7 +16,7 @@ fatal: could not read Username for 'https://github.com': No such file or directo
 http://stackoverflow.com/questions/20871549/error-when-push-commits-with-github-fatal-could-not-read-username
 
 finally we replace https://github.com/USER/REPO.git 
-with git@github.com:USER/REPO.git according the url above.
+with git@github.com:USER/REPO.git according to the url above.
 
 3) Problem when login with github GUI
 
